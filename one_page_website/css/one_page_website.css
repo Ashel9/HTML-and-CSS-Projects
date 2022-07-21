@@ -1,0 +1,24 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color:black;
+	color:orange;
+	text-align:center;
+    margin-left:250px;
+    margin-right:250px;
+}
+
+h1 {
+    text-shadow: 1px 2px 3px red;
+   
+}
+
+.input {
+    width: 100px;
+    background-color: darkslategrey;
+    margin-left: 5px;
+    margin-right: 25px;
+    border:1px solid silver;
+    border-radius: 2px;
+}
+
